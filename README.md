@@ -11,3 +11,6 @@ https://commons.wikimedia.org/wiki/File:Dos-license-logo.svg
 <img src="./dos-license-logo-white.svg" height="300px" />
 
 <img src="./dos-license-logo.svg" height="300px" />
+
+
+Licensed under the Creative Commons Attribution-Share Alike 4.0 International license.
